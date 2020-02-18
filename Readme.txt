@@ -1,8 +1,8 @@
-1) Unzip the Assignment file into C:\\ drive
+1) Unzip the Assignment file into C:\Users\revan\eclipse-workspace\ drive
 2)Import the project into Eclipse
 3) Once the project is loaded and build successfully, open the below scripts locate at "src/main/java->APITest->CreateBooking"
 4) Once the script is opened, please right click on execute via TestNG.
-5) Once the script is executed, Reports are generated and stored in C:\Assignment\Reports\ folder with Name "CreateBooking.html"
+5) Once the script is executed, Reports are generated and stored in Assignment\ReC:\Users\revan\eclipse-workspace\Reports\ folder with Name "CreateBooking.html"
 
 
 Technical Stack:
