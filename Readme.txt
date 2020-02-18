@@ -1,4 +1,4 @@
-1) Unzip the Assignment file into C:\Users\revan\eclipse-workspace\ drive
+1) Unzip the Assignment file into C:\ drive
 2)Import the project into Eclipse
 3) Once the project is loaded and build successfully, open the below scripts locate at "src/main/java->APITest->CreateBooking"
 4) Once the script is opened, please right click on execute via TestNG.
@@ -27,5 +27,6 @@ Project Components
                      - Can customize based on the results generated.
                      
 
-
+Note: Am attaching the video for the test executions along with opening of the test results file. 
+     File Name- TestExecutions.zip
 
