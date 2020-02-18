@@ -25,7 +25,7 @@ Project Components
   iii) Shared_Functions->"Reusable_Functions"- Consists of the reusable functions which can be called multiple times.
   iV) Extent Reports - Library implemented for Test Automation Results in html format.
                      - Can customize based on the results generated.
-                     - Result file can be viewed at 
+                     
 
 
-Note:Attaching Video file for the execution.
+
